@@ -8,6 +8,7 @@
     "react-spring"
   ],
   "main": "src/index.js",
+  "homepage": "/build/",
   "dependencies": {
     "@react-spring/three": "9.5.4",
     "@react-spring/web": "9.5.4",
